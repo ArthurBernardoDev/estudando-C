@@ -1,0 +1,13 @@
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.exe
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.deps.json
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.runtimeconfig.json
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.runtimeconfig.dev.json
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\bin\Debug\netcoreapp3.1\Digital.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.csprojAssemblyReference.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.AssemblyInfo.cs
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Digital\obj\Debug\netcoreapp3.1\Digital.genruntimeconfig.cache
