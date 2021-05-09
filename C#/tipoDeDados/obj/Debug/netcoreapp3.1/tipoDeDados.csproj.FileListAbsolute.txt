@@ -1,0 +1,13 @@
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.exe
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.deps.json
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.runtimeconfig.json
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.runtimeconfig.dev.json
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.dll
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\bin\Debug\netcoreapp3.1\tipoDeDados.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.csprojAssemblyReference.cache
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.AssemblyInfo.cs
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.dll
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\tipoDeDados\obj\Debug\netcoreapp3.1\tipoDeDados.genruntimeconfig.cache
