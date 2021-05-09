@@ -1,0 +1,13 @@
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csprojAssemblyReference.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache
