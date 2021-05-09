@@ -1,0 +1,13 @@
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.exe
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.deps.json
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.runtimeconfig.json
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.runtimeconfig.dev.json
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.dll
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\bin\Debug\netcoreapp3.1\EntradaDoUsuario.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.csprojAssemblyReference.cache
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.AssemblyInfo.cs
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.dll
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\EntradaDoUsuario\obj\Debug\netcoreapp3.1\EntradaDoUsuario.genruntimeconfig.cache
