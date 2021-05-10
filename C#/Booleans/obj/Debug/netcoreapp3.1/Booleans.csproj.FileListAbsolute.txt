@@ -1,0 +1,13 @@
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.exe
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.deps.json
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.json
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.dev.json
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\bin\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.csprojAssemblyReference.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfo.cs
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\55319\Documents\estudo-arthur\C#\Booleans\obj\Debug\netcoreapp3.1\Booleans.genruntimeconfig.cache
