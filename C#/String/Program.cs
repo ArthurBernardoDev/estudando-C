@@ -30,6 +30,19 @@ namespace String
         string name1 = $"my full name é : {firstname} {lastname}";
         Console.WriteLine(name1);
         
+        //Accessando Strings
+        string myString = "Hello";
+        Console.WriteLine(myString[0]);
+        Console.WriteLine(myString.IndexOf("e"));
+
+        // se você adicionar dois numeros, o resultado sera um numero
+        int x = 10;
+        int y = 20;
+        int z = x + y;  // 10 + 20 = 30 
+        // Se você adicionar duas strings, o resultado será uma concatenação de strings
+        string x1 = "10";
+        string y1 = "20";
+        string z1 = x1 + y1;
         }
     }
 }
