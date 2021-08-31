@@ -1,0 +1,5 @@
+/home/arthurbernardo/Documentos/estudando-Csharp/C#/Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/home/arthurbernardo/Documentos/estudando-Csharp/C#/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurbernardo/Documentos/estudando-Csharp/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/arthurbernardo/Documentos/estudando-Csharp/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/arthurbernardo/Documentos/estudando-Csharp/C#/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
