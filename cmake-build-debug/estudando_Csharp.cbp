@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/arthur/Documentos/Dev/estudando-Csharp/C/main.c">
+		<Unit filename="/home/arthur/Documentos/Dev/estudando-Csharp/C/hello-world.c">
 			<Option target="estudando_Csharp"/>
 		</Unit>
 		<Unit filename="/home/arthur/Documentos/Dev/estudando-Csharp/CMakeLists.txt">

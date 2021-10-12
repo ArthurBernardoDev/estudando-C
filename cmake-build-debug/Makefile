@@ -129,29 +129,29 @@ estudando_Csharp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/build
 .PHONY : estudando_Csharp/fast
 
-C/main.o: C/main.c.o
-.PHONY : C/main.o
+C/hello-world.o: C/hello-world.c.o
+.PHONY : C/hello-world.o
 
 # target to build an object file
-C/main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/main.c.o
-.PHONY : C/main.c.o
+C/hello-world.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o
+.PHONY : C/hello-world.c.o
 
-C/main.i: C/main.c.i
-.PHONY : C/main.i
+C/hello-world.i: C/hello-world.c.i
+.PHONY : C/hello-world.i
 
 # target to preprocess a source file
-C/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/main.c.i
-.PHONY : C/main.c.i
+C/hello-world.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/hello-world.c.i
+.PHONY : C/hello-world.c.i
 
-C/main.s: C/main.c.s
-.PHONY : C/main.s
+C/hello-world.s: C/hello-world.c.s
+.PHONY : C/hello-world.s
 
 # target to generate assembly for a file
-C/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/main.c.s
-.PHONY : C/main.c.s
+C/hello-world.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/estudando_Csharp.dir/build.make CMakeFiles/estudando_Csharp.dir/C/hello-world.c.s
+.PHONY : C/hello-world.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... estudando_Csharp"
-	@echo "... C/main.o"
-	@echo "... C/main.i"
-	@echo "... C/main.s"
+	@echo "... C/hello-world.o"
+	@echo "... C/hello-world.i"
+	@echo "... C/hello-world.s"
 .PHONY : help
 
 

@@ -66,27 +66,27 @@ include CMakeFiles/estudando_Csharp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/estudando_Csharp.dir/flags.make
 
-CMakeFiles/estudando_Csharp.dir/C/main.c.o: CMakeFiles/estudando_Csharp.dir/flags.make
-CMakeFiles/estudando_Csharp.dir/C/main.c.o: ../C/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arthur/Documentos/Dev/estudando-Csharp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/estudando_Csharp.dir/C/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/estudando_Csharp.dir/C/main.c.o -c /home/arthur/Documentos/Dev/estudando-Csharp/C/main.c
+CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o: CMakeFiles/estudando_Csharp.dir/flags.make
+CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o: ../C/hello-world.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arthur/Documentos/Dev/estudando-Csharp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o -c /home/arthur/Documentos/Dev/estudando-Csharp/C/hello-world.c
 
-CMakeFiles/estudando_Csharp.dir/C/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/estudando_Csharp.dir/C/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/arthur/Documentos/Dev/estudando-Csharp/C/main.c > CMakeFiles/estudando_Csharp.dir/C/main.c.i
+CMakeFiles/estudando_Csharp.dir/C/hello-world.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/estudando_Csharp.dir/C/hello-world.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/arthur/Documentos/Dev/estudando-Csharp/C/hello-world.c > CMakeFiles/estudando_Csharp.dir/C/hello-world.c.i
 
-CMakeFiles/estudando_Csharp.dir/C/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/estudando_Csharp.dir/C/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/arthur/Documentos/Dev/estudando-Csharp/C/main.c -o CMakeFiles/estudando_Csharp.dir/C/main.c.s
+CMakeFiles/estudando_Csharp.dir/C/hello-world.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/estudando_Csharp.dir/C/hello-world.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/arthur/Documentos/Dev/estudando-Csharp/C/hello-world.c -o CMakeFiles/estudando_Csharp.dir/C/hello-world.c.s
 
 # Object files for target estudando_Csharp
 estudando_Csharp_OBJECTS = \
-"CMakeFiles/estudando_Csharp.dir/C/main.c.o"
+"CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o"
 
 # External object files for target estudando_Csharp
 estudando_Csharp_EXTERNAL_OBJECTS =
 
-estudando_Csharp: CMakeFiles/estudando_Csharp.dir/C/main.c.o
+estudando_Csharp: CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o
 estudando_Csharp: CMakeFiles/estudando_Csharp.dir/build.make
 estudando_Csharp: CMakeFiles/estudando_Csharp.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arthur/Documentos/Dev/estudando-Csharp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable estudando_Csharp"

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/arthur/Documentos/Dev/estudando-Csharp/C/main.c" "/home/arthur/Documentos/Dev/estudando-Csharp/cmake-build-debug/CMakeFiles/estudando_Csharp.dir/C/main.c.o"
+  "/home/arthur/Documentos/Dev/estudando-Csharp/C/hello-world.c" "/home/arthur/Documentos/Dev/estudando-Csharp/cmake-build-debug/CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

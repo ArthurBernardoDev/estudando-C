@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/estudando_Csharp.dir/C/main.c.o"
+  "CMakeFiles/estudando_Csharp.dir/C/hello-world.c.o"
   "estudando_Csharp"
   "estudando_Csharp.pdb"
 )
